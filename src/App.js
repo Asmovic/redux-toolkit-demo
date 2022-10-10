@@ -4,7 +4,7 @@ import NavBar from './components/Navbar'
 import Home from './components/Home'
 import Employees from './components/Employees'
 import Counter from './components/Counter'
-import Users from './components/Users'
+import Users from './components/UserList'
 
 function App() {
   return (
